@@ -1,0 +1,27 @@
+body{
+    background-color: skyblue;
+    border-radius: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: initial;
+    color: black;
+}
+div{
+    text-align: center;
+    font-size: large;
+    background-color: rgb(169, 169, 224);
+    border-radius: 0%;
+    border-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    margin-top: 100px;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 0px;
+    border-style: double;
+    border-top: 0px;
+}
